@@ -1,0 +1,5 @@
+#ignore TRIMAUTO.ipynb - отладочный notebook
+TRIMAUTO.ipynb
+#ignore directories with assembly files
+/.ipynb_checkpoints
+/__pycache__
